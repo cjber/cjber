@@ -15,7 +15,9 @@ Outside of work, I make addons for WoW: Forever that fit into the game's own UI:
 - [SkillUp Forever](https://github.com/cjber/skillup-forever): Classic profession requirements, thresholds and skill-up chances in the Professions window.
 - [Tweaks Forever](https://github.com/cjber/tweaks-forever): small quality-of-life improvements and fixes for the default UI.
 
-I also maintain my [coding-agent skills](https://github.com/cjber/skills), [Arch Linux and Neovim dotfiles](https://github.com/cjber/dotfiles), and [Oxide colour scheme](https://github.com/cjber/oxide). My [personal site](https://github.com/cjber/cjber.dev) is open source too.
+I also build [kiln](https://github.com/cjber/kiln), a compact task list for Claude Code, Codex and Pi sessions, with a paired Android app for checking activity and opening sessions from my phone.
+
+I maintain my [coding-agent skills](https://github.com/cjber/skills), [Arch Linux and Neovim dotfiles](https://github.com/cjber/dotfiles), and [Oxide colour scheme](https://github.com/cjber/oxide). My [personal site](https://github.com/cjber/cjber.dev) is open source too.
 
 I did my PhD at the University of Liverpool on NLP and geography, mainly pulling place information out of Reddit and Twitter text. The research code is archived here if you're after it.
 
