@@ -7,13 +7,13 @@ Some of our open-source projects at Nebula:
 - [electron-mcp](https://github.com/agent-labs-dev/electron-mcp): an embedded MCP server that lets agents drive Electron apps through Chrome DevTools Protocol.
 - [Nebula AI skill](https://github.com/agent-labs-dev/nebula-ai-skill): teaches coding agents to use the Nebula CLI, delegate work and use connected services.
 
-Outside of work, I make addons for WoW: Forever that fit into the game's own UI:
+Outside of work, I make addons for WoW: Forever that fit into the game's own UI. Each works alone, and they work together:
 
-- [Adventure Guide Forever](https://github.com/cjber/adventure-guide-forever): quest suggestions and routes based on your level and progress, with dungeon planning and loot.
-- [Shortest Path Forever](https://github.com/cjber/shortest-path-forever): turn-by-turn travel across walking routes, flight paths, boats, zeppelins, lifts, the tram and portals.
-- [Legacy Forever](https://github.com/cjber/legacy-forever): unfinished Legacy challenges on the world map, with live progress in the tracker.
-- [SkillUp Forever](https://github.com/cjber/skillup-forever): Classic profession requirements, thresholds and skill-up chances in the Professions window.
-- [Tweaks Forever](https://github.com/cjber/tweaks-forever): small quality-of-life improvements and fixes for the default UI.
+- [Shortest Path Forever](https://www.curseforge.com/wow/addons/shortest-path-forever) ([source](https://github.com/cjber/shortest-path-forever)): turn-by-turn travel across walking routes, flight paths, boats, zeppelins, lifts, the tram and portals.
+- [Adventure Guide Forever](https://www.curseforge.com/wow/addons/adventure-guide-forever) ([source](https://github.com/cjber/adventure-guide-forever)): quest suggestions and routes for your level and progress. With Shortest Path Forever it walks you to each stop.
+- [SkillUp Forever](https://www.curseforge.com/wow/addons/skillup-forever) ([source](https://github.com/cjber/skillup-forever)): Classic profession requirements, thresholds and skill-up chances in the Professions window, with levelling routes.
+- [Legacy Forever](https://www.curseforge.com/wow/addons/legacy-forever) ([source](https://github.com/cjber/legacy-forever)): unfinished Legacy challenges on the world map, with live progress in the tracker.
+- [Tweaks Forever](https://www.curseforge.com/wow/addons/tweaks-forever) ([source](https://github.com/cjber/tweaks-forever)): small quality-of-life improvements and fixes for the default UI.
 
 I also build [kiln](https://github.com/cjber/kiln), a compact task list for Claude Code, Codex and Pi sessions, with a paired Android app for checking activity and opening sessions from my phone.
 
